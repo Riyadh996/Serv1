@@ -1,6 +1,17 @@
 /* styles.css */
+body, h, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:rgb(197, 224, 142);
+    color:rgb(241, 5, 5);
+    text-align: center;
+    padding: 18px;
+}
+
 h1 {
-    color: rgb(0, 255, 81);
+    color: rgb(6, 6, 6);
 }
     body {
         height: 100%;
@@ -61,7 +72,7 @@ h1 {
         padding-top: 100px;
         padding-bottom: 5px;
         text-align: center;
-        background-color: #3a32b7;
-        color: #ffffff;
+        background-color: #32b7a8;
+        color: #110c13;
     }
     
